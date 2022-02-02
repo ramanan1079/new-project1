@@ -9,6 +9,9 @@ exframe()
 
 Frame frame=new Frame("MY frame");
 
+Frame frame=new Frame("MY frame");
+
+
 
 frame.setSize(500,500);
 
